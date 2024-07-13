@@ -9,7 +9,7 @@ const Navber = () => {
         <li><NavLink to='/pages'>Pages to Read</NavLink></li>
     </>
     return (
-        <div className="navbar bg-white md:px-16 py-8">
+        <div className="navbar bg-white py-8">
             <div className="navbar-start">
                 <div className="dropdown">
                     <label tabIndex={0} className="btn btn-ghost lg:hidden">

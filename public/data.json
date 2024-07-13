@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/0jJ8tN8/kindpng-7318921.png",
+      "title": "The Catcher in the Rye",
+      "review": "An excellent book that provides deep insights.",
+      "pages": 350,
+      "publisher": "Publisher A",
+      "year": 2020,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/16Z4pLY/pngwing-1.png",
+      "title": "The Catcher in the Rye",
+      "review": "A captivating story from start to finish.",
+      "pages": 420,
+      "publisher": "Publisher B",
+      "year": 2018,
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/z834p8c/kindpng-81724-1.png",
+      "title": "The Catcher in the Rye",
+      "review": "A well-written book with a unique perspective.",
+      "pages": 290,
+      "publisher": "Publisher C",
+      "year": 2021,
+      "rating": 4.2
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/jT14PFN/kindpng-1064993.png",
+      "title": "The Catcher in the Rye",
+      "review": "A comprehensive guide on the subject.",
+      "pages": 310,
+      "publisher": "Publisher D",
+      "year": 2019,
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/Kj3Q2Wh/kindpng-2193744-1.png",
+      "title": "The Catcher in the Rye",
+      "review": "A fascinating read with a lot of useful information.",
+      "pages": 360,
+      "publisher": "Publisher E",
+      "year": 2017,
+      "rating": 4.4
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/VW0949q/kindpng-4022054-1.png",
+      "title": "The Catcher in the Rye",
+      "review": "An engaging story with well-developed characters.",
+      "pages": 450,
+      "publisher": "Publisher F",
+      "year": 2016,
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/fp4T2jj/kindpng-5624060-1.png",
+      "title": "The Catcher in the Rye",
+      "review": "A thought-provoking book that challenges conventional wisdom.",
+      "pages": 280,
+      "publisher": "Publisher G",
+      "year": 2022,
+      "rating": 4.3
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/jkL0KQh/kindpng-2592315-1.png",
+      "title": "The Catcher in the Rye",
+      "review": "A delightful book with a charming narrative.",
+      "pages": 320,
+      "publisher": "Publisher H",
+      "year": 2015,
+      "rating": 4.1
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/K2Md19q/kindpng-4945926-1.png",
+      "title": "The Catcher in the Rye",
+      "review": "An insightful book with practical advice.",
+      "pages": 400,
+      "publisher": "Publisher I",
+      "year": 2014,
+      "rating": 4.0
+    }
+  ]
+  
